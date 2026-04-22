@@ -1,0 +1,3 @@
+[submodule "delta-FM/TransSegFlow"]
+	path = delta-FM/TransSegFlow
+	url = https://github.com/Yetbye/semflow-xu.git
