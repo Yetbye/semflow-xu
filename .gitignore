@@ -1,0 +1,14 @@
+# Ignore attached data directories
+delta-FM/TransSegFlow/dataset/
+delta-FM/TransSegFlow/file/
+delta-FM/TransSegFlow/old_weight/
+
+# In work_dirs only keep text files
+delta-FM/TransSegFlow/work_dirs/**
+!delta-FM/TransSegFlow/work_dirs/**/
+!delta-FM/TransSegFlow/work_dirs/**/*.txt
+
+old/dataset
+old/file
+old/weights
+old/work_dirs
