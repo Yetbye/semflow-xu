@@ -1,0 +1,82 @@
+pretrain_model:   # 'dataset/pretrain/stable-diffusion-v1-5'
+resume_from_checkpoint: latest
+eval_only: False
+mode: 'semantic'
+db: trans10k
+
+valmode: seg
+valstep: 1
+valsample: euler
+
+pa:
+   k: 3
+   s: 127
+
+pert:
+   t: u
+   co: 0.5
+   mode: none
+
+cfg:
+   cond_prob: 0
+   guide: 1    
+   image_guide: 1
+   text: null
+   continus: true
+   sampler: ddpm
+
+env:
+   output_dir: work_dirs/semflow_uvit_rrdb_cls
+   logging_dir: 'log'
+   report_to: 'tensorboard'
+   gradient_accumulation_steps: 2
+   seed: 123
+   mixed_precision: "no"
+   deepspeed: False
+   allow_tf32: False
+   scale_lr: False
+   use_xformers: False
+   ema: True #False
+   max_train_steps: 40000
+   max_grad_norm: 1.0
+   checkpointing_steps: 5000
+   size: 512
+   val_iter: 2000
+   splsave: false
+   quickval:
+   lossmask: false
+   vis: true
+
+train:
+   batch_size: 8
+   num_workers: 8
+   find_unused_parameters: False
+   gradient_checkpointing: True
+
+eval:
+   mask_th: 0.5
+   count_th: 512
+   overlap_th: 0.5
+   batch_size: 2
+   num_workers: 8
+
+optim:
+   name: adamw
+   lr:  1.0e-5
+   beta1: 0.9
+   beta2: 0.999
+   weight_decay: 0.01
+   epsilon: 1.0e-08
+
+lr_scheduler:
+   name: cosine  
+   final_lr: 1.0e-6
+   warmup_steps: 1000
+
+transformation:
+   flip: True
+   size: 512    #########
+   crop: random
+
+ds_base:
+   ignore_label: 255       ##############

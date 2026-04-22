@@ -1,0 +1,270 @@
+
+==================== Step 2000 ====================
+mIoU: 0.7128
+Pixel Acc: 0.9289
+Cls Acc: 0.7035
+Class 0 IoU: 0.9731
+Class 1 IoU: 0.5499
+Class 2 IoU: 0.5854
+Class 3 IoU: 0.6531
+Class 4 IoU: 0.5633
+Class 5 IoU: 0.6508
+Class 6 IoU: 0.9289
+Class 7 IoU: 0.8689
+Class 8 IoU: 0.8048
+Class 9 IoU: 0.6556
+Class 10 IoU: 0.7908
+Class 11 IoU: 0.5293
+==================================================
+
+==================== Step 4000 ====================
+mIoU: 0.7015
+Pixel Acc: 0.9265
+Cls Acc: 0.7058
+Class 0 IoU: 0.9736
+Class 1 IoU: 0.5396
+Class 2 IoU: 0.5764
+Class 3 IoU: 0.6424
+Class 4 IoU: 0.5328
+Class 5 IoU: 0.6442
+Class 6 IoU: 0.9056
+Class 7 IoU: 0.8640
+Class 8 IoU: 0.8003
+Class 9 IoU: 0.6411
+Class 10 IoU: 0.7694
+Class 11 IoU: 0.5283
+==================================================
+
+==================== Step 6000 ====================
+mIoU: 0.6964
+Pixel Acc: 0.9266
+Cls Acc: 0.7020
+Class 0 IoU: 0.9730
+Class 1 IoU: 0.5457
+Class 2 IoU: 0.5300
+Class 3 IoU: 0.6438
+Class 4 IoU: 0.5219
+Class 5 IoU: 0.6437
+Class 6 IoU: 0.9273
+Class 7 IoU: 0.8382
+Class 8 IoU: 0.8002
+Class 9 IoU: 0.6515
+Class 10 IoU: 0.7629
+Class 11 IoU: 0.5183
+==================================================
+
+==================== Step 8000 ====================
+mIoU: 0.7035
+Pixel Acc: 0.9289
+Cls Acc: 0.7030
+Class 0 IoU: 0.9736
+Class 1 IoU: 0.5416
+Class 2 IoU: 0.5654
+Class 3 IoU: 0.6109
+Class 4 IoU: 0.5303
+Class 5 IoU: 0.6428
+Class 6 IoU: 0.9280
+Class 7 IoU: 0.8580
+Class 8 IoU: 0.8024
+Class 9 IoU: 0.6504
+Class 10 IoU: 0.7851
+Class 11 IoU: 0.5530
+==================================================
+
+==================== Step 10000 ====================
+mIoU: 0.7004
+Pixel Acc: 0.9269
+Cls Acc: 0.7022
+Class 0 IoU: 0.9729
+Class 1 IoU: 0.5405
+Class 2 IoU: 0.5877
+Class 3 IoU: 0.5770
+Class 4 IoU: 0.5375
+Class 5 IoU: 0.6429
+Class 6 IoU: 0.9330
+Class 7 IoU: 0.8600
+Class 8 IoU: 0.7988
+Class 9 IoU: 0.6350
+Class 10 IoU: 0.7662
+Class 11 IoU: 0.5531
+==================================================
+
+==================== Step 12000 ====================
+mIoU: 0.7025
+Pixel Acc: 0.9293
+Cls Acc: 0.7050
+Class 0 IoU: 0.9732
+Class 1 IoU: 0.5454
+Class 2 IoU: 0.5801
+Class 3 IoU: 0.5997
+Class 4 IoU: 0.5446
+Class 5 IoU: 0.6365
+Class 6 IoU: 0.9249
+Class 7 IoU: 0.8519
+Class 8 IoU: 0.8052
+Class 9 IoU: 0.6221
+Class 10 IoU: 0.7913
+Class 11 IoU: 0.5553
+==================================================
+
+==================== Step 14000 ====================
+mIoU: 0.7092
+Pixel Acc: 0.9300
+Cls Acc: 0.7013
+Class 0 IoU: 0.9735
+Class 1 IoU: 0.5691
+Class 2 IoU: 0.5760
+Class 3 IoU: 0.6215
+Class 4 IoU: 0.5661
+Class 5 IoU: 0.6536
+Class 6 IoU: 0.9279
+Class 7 IoU: 0.8507
+Class 8 IoU: 0.8075
+Class 9 IoU: 0.6186
+Class 10 IoU: 0.7850
+Class 11 IoU: 0.5604
+==================================================
+
+==================== Step 16000 ====================
+mIoU: 0.7108
+Pixel Acc: 0.9306
+Cls Acc: 0.7038
+Class 0 IoU: 0.9740
+Class 1 IoU: 0.5820
+Class 2 IoU: 0.5690
+Class 3 IoU: 0.6276
+Class 4 IoU: 0.5523
+Class 5 IoU: 0.6525
+Class 6 IoU: 0.9287
+Class 7 IoU: 0.8539
+Class 8 IoU: 0.8077
+Class 9 IoU: 0.6322
+Class 10 IoU: 0.7909
+Class 11 IoU: 0.5581
+==================================================
+
+==================== Step 18000 ====================
+mIoU: 0.7075
+Pixel Acc: 0.9306
+Cls Acc: 0.7044
+Class 0 IoU: 0.9737
+Class 1 IoU: 0.5588
+Class 2 IoU: 0.5716
+Class 3 IoU: 0.6100
+Class 4 IoU: 0.5512
+Class 5 IoU: 0.6543
+Class 6 IoU: 0.9298
+Class 7 IoU: 0.8500
+Class 8 IoU: 0.8065
+Class 9 IoU: 0.6158
+Class 10 IoU: 0.7987
+Class 11 IoU: 0.5697
+==================================================
+
+==================== Step 20000 ====================
+mIoU: 0.7109
+Pixel Acc: 0.9310
+Cls Acc: 0.7046
+Class 0 IoU: 0.9741
+Class 1 IoU: 0.5705
+Class 2 IoU: 0.5876
+Class 3 IoU: 0.5737
+Class 4 IoU: 0.5440
+Class 5 IoU: 0.6570
+Class 6 IoU: 0.9280
+Class 7 IoU: 0.8652
+Class 8 IoU: 0.8130
+Class 9 IoU: 0.6593
+Class 10 IoU: 0.7965
+Class 11 IoU: 0.5624
+==================================================
+
+==================== Step 22000 ====================
+mIoU: 0.7070
+Pixel Acc: 0.9315
+Cls Acc: 0.7041
+Class 0 IoU: 0.9736
+Class 1 IoU: 0.5607
+Class 2 IoU: 0.5717
+Class 3 IoU: 0.5998
+Class 4 IoU: 0.5487
+Class 5 IoU: 0.6565
+Class 6 IoU: 0.9291
+Class 7 IoU: 0.8546
+Class 8 IoU: 0.8101
+Class 9 IoU: 0.6251
+Class 10 IoU: 0.8011
+Class 11 IoU: 0.5528
+==================================================
+
+==================== Step 24000 ====================
+mIoU: 0.7058
+Pixel Acc: 0.9315
+Cls Acc: 0.7048
+Class 0 IoU: 0.9740
+Class 1 IoU: 0.5683
+Class 2 IoU: 0.5729
+Class 3 IoU: 0.5816
+Class 4 IoU: 0.5428
+Class 5 IoU: 0.6505
+Class 6 IoU: 0.9288
+Class 7 IoU: 0.8556
+Class 8 IoU: 0.8103
+Class 9 IoU: 0.6334
+Class 10 IoU: 0.7972
+Class 11 IoU: 0.5546
+==================================================
+
+==================== Step 26000 ====================
+mIoU: 0.7052
+Pixel Acc: 0.9317
+Cls Acc: 0.7043
+Class 0 IoU: 0.9737
+Class 1 IoU: 0.5660
+Class 2 IoU: 0.5703
+Class 3 IoU: 0.5799
+Class 4 IoU: 0.5419
+Class 5 IoU: 0.6524
+Class 6 IoU: 0.9294
+Class 7 IoU: 0.8543
+Class 8 IoU: 0.8105
+Class 9 IoU: 0.6354
+Class 10 IoU: 0.7958
+Class 11 IoU: 0.5532
+==================================================
+
+==================== Step 28000 ====================
+mIoU: 0.7055
+Pixel Acc: 0.9316
+Cls Acc: 0.7044
+Class 0 IoU: 0.9738
+Class 1 IoU: 0.5687
+Class 2 IoU: 0.5719
+Class 3 IoU: 0.5817
+Class 4 IoU: 0.5400
+Class 5 IoU: 0.6508
+Class 6 IoU: 0.9297
+Class 7 IoU: 0.8550
+Class 8 IoU: 0.8093
+Class 9 IoU: 0.6351
+Class 10 IoU: 0.8001
+Class 11 IoU: 0.5500
+==================================================
+
+==================== Step 30000 ====================
+mIoU: 0.7055
+Pixel Acc: 0.9316
+Cls Acc: 0.7043
+Class 0 IoU: 0.9738
+Class 1 IoU: 0.5686
+Class 2 IoU: 0.5717
+Class 3 IoU: 0.5822
+Class 4 IoU: 0.5401
+Class 5 IoU: 0.6509
+Class 6 IoU: 0.9298
+Class 7 IoU: 0.8549
+Class 8 IoU: 0.8092
+Class 9 IoU: 0.6350
+Class 10 IoU: 0.7996
+Class 11 IoU: 0.5502
+==================================================

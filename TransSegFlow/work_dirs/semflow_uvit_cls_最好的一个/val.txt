@@ -1,0 +1,54 @@
+
+==================== Step 2000 ====================
+mIoU: 0.7198
+Pixel Acc: 0.9266
+Cls Acc: 0.9345
+Class 0 IoU: 0.9729
+Class 1 IoU: 0.5719
+Class 2 IoU: 0.5967
+Class 3 IoU: 0.7391
+Class 4 IoU: 0.5690
+Class 5 IoU: 0.6693
+Class 6 IoU: 0.9220
+Class 7 IoU: 0.8629
+Class 8 IoU: 0.8013
+Class 9 IoU: 0.6209
+Class 10 IoU: 0.7926
+Class 11 IoU: 0.5191
+==================================================
+
+==================== Step 4000 ====================
+mIoU: 0.7200
+Pixel Acc: 0.9281
+Cls Acc: 0.9399
+Class 0 IoU: 0.9739
+Class 1 IoU: 0.5777
+Class 2 IoU: 0.5812
+Class 3 IoU: 0.6725
+Class 4 IoU: 0.5831
+Class 5 IoU: 0.6691
+Class 6 IoU: 0.9183
+Class 7 IoU: 0.8652
+Class 8 IoU: 0.8036
+Class 9 IoU: 0.6423
+Class 10 IoU: 0.8026
+Class 11 IoU: 0.5510
+==================================================
+
+==================== Step 6000 ====================
+mIoU: 0.7228
+Pixel Acc: 0.9282
+Cls Acc: 0.9393
+Class 0 IoU: 0.9735
+Class 1 IoU: 0.5818
+Class 2 IoU: 0.5908
+Class 3 IoU: 0.7088
+Class 4 IoU: 0.5746
+Class 5 IoU: 0.6761
+Class 6 IoU: 0.9184
+Class 7 IoU: 0.8626
+Class 8 IoU: 0.8034
+Class 9 IoU: 0.6444
+Class 10 IoU: 0.8009
+Class 11 IoU: 0.5378
+==================================================

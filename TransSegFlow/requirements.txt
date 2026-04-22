@@ -1,0 +1,39 @@
+# torch==2.1.0
+# torchvision
+# accelerate==0.25.0
+# diffusers==0.25.0
+# huggingface-hub==0.25.0
+# deepspeed
+# numpy~=1.26.0
+# transformers
+# imageio
+# einops
+# tqdm
+# omegaconf
+# opencv-python
+
+
+
+
+# Core deep learning
+torch>=2.4.0
+torchvision>=0.19.0
+
+# HuggingFace Ecosystem (解除版本限制，获取带有 DINOv3 架构的新版本)
+transformers>=4.45.0
+accelerate>=0.30.0
+diffusers>=0.30.0
+huggingface-hub>=0.25.0
+safetensors>=0.4.5
+
+# Training Optimization
+deepspeed>=0.14.0
+xformers>=0.0.28
+
+# Utilities
+numpy<2.0.0
+tqdm
+omegaconf
+opencv-python
+imageio
+einops
